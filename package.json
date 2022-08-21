@@ -1,0 +1,20 @@
+{
+  "name": "curso-javascript-poo-intermedio-crud",
+  "version": "1.0.0",
+  "description": "Este es el proyecto que he realizado para el curso de programación de POO intermedio de JAVASCRIPT de Platzi y de FAZT. Contiene el aprendizaje que he adquirido a lo largo de estos días.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanpaCortez93/curso-javascript-poo-intermedio-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanpaCortez93/curso-javascript-poo-intermedio-crud/issues"
+  },
+  "homepage": "https://github.com/JuanpaCortez93/curso-javascript-poo-intermedio-crud#readme"
+}
